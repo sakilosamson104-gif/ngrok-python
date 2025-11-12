@@ -1,3 +1,7 @@
+## Unreleased
+
+- Add support for internal endpoints
+
 ## 1.5.0:
 - Adds `pooling_enabled` to listener builders, allowing the endpoint to pool with other endpoints with the same host/port/binding
 - Adds support for Windows-aarch64
